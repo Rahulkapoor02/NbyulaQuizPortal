@@ -1,5 +1,5 @@
-# NbyulaQuizPortal
-# NbyulaQuizPortal
+# NbyulaQuizPortal Screenshots
+
 
 Screenshots
 ![1](https://user-images.githubusercontent.com/87863495/174450719-ae4355f7-692c-4460-80d3-38a4333755cf.png)
